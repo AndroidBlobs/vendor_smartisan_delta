@@ -1,0 +1,83 @@
+{
+  "DevInfoArray": [
+    {
+      "Vendor": "SKhynix",
+      "Model": "H28S8Q302CMR",
+      "Rev": "A106",
+      "FFU_FLAG": 1,
+      "FwPath": "/vendor/bin/FW_SK_H28S8Q302CMR_A106.bin",
+      "OldRev": [
+          "A101",
+          "A102",
+          "A103"
+      ]
+    },
+    {
+      "Vendor": "SAMSUNG",
+      "Model": "KLUDG4U1EA-B0C1",
+      "Rev": "0900",
+      "FFU_FLAG": 1,
+      "FwPath": "/vendor/bin/FW_SAMSUNG_KLUDG4U1EA_B0C1_P09.bin",
+      "OldRev": [
+          "0600",
+          "0700",
+          "0800",
+          "FFB2"
+      ]
+    },
+    {
+      "Vendor": "SAMSUNG",
+      "Model": "KLUDG4U1EA-B0C1",
+      "Rev": "FFB2",
+      "FFU_FLAG": 1,
+      "FwPath": "/vendor/bin/FW_SAMSUNG_128_A_B.bin",
+      "OldRev": [
+          "0100",
+          "0200",
+          "0300",
+          "0400",
+          "0500"
+      ]
+    },
+    {
+      "Vendor": "SAMSUNG",
+      "Model": "KLUEG8U1EA-B0C1",
+      "Rev": "0900",
+      "FFU_FLAG": 1,
+      "FwPath": "/vendor/bin/FW_SAMSUNG_KLUEG8U1EA_B0C1_P09.bin",
+      "OldRev": [
+          "0600",
+          "0700",
+          "0800",
+          "FFB2"
+      ]
+    },
+    {
+      "Vendor": "SAMSUNG",
+      "Model": "KLUEG8U1EA-B0C1",
+      "Rev": "FFB2",
+      "FFU_FLAG": 1,
+      "FwPath": "/vendor/bin/FW_SAMSUNG_256_A_B.bin",
+      "OldRev": [
+          "0100",
+          "0200",
+          "0300",
+          "0400",
+          "0500"
+      ]
+    },
+
+    {
+      "Vendor": "HYNIX",
+      "Model": "UNKONW",
+	  "Rev": "0100",
+	  "FFU_FLAG": 0,
+	  "FwPath": "",
+      "OldRev": [
+		""
+      ]
+    }
+
+  ]
+}
+

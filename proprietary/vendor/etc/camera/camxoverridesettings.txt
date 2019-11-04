@@ -1,0 +1,4 @@
+#logInfoMask=0xFFFF
+#logWarningMask=0xFFFF
+systemLogEnable=FALSE
+raiserecoverysigabrt=TRUE
